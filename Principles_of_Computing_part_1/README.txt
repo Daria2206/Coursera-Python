@@ -1,0 +1,1 @@
+Repository for the mini-projects assigned in the course: "Principles of Computing (Part 1)" (Coursera & Rice Uni).
